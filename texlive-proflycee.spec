@@ -1,6 +1,6 @@
 Name:		texlive-proflycee
 Version:	64967
-Release:	1
+Release:	2
 Summary:	A LaTeX package for French maths teachers in high school
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/proflycee
