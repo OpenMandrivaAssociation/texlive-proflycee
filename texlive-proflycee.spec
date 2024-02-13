@@ -1,5 +1,5 @@
 Name:		texlive-proflycee
-Version:	69630
+Version:	69804
 Release:	1
 Summary:	A LaTeX package for French maths teachers in high school
 Group:		Publishing
