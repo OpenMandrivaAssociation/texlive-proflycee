@@ -3,7 +3,7 @@ Version:	70162
 Release:	1
 Summary:	A LaTeX package for French maths teachers in high school
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/proflycee
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/proflycee
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/proflycee.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/proflycee.doc.r%{version}.tar.xz
